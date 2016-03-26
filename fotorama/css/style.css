@@ -1,0 +1,23 @@
+#poster{
+	height: 300px;
+	width: 200px;
+	box-shadow: gray 5px 5px 5px;
+	text-align: center;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-size: 100px;
+  margin-top: 200px;
+}
+
+p {
+  color: yellow;
+  font-size: 50px;
+}
+
